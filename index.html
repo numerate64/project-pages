@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Numerate64 Project Pages</title>
+    <meta
+      name="description"
+      content="A directory of public GitHub Pages projects by numerate64."
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #172026;
+        --muted: #64707a;
+        --line: #d9e0e6;
+        --paper: #fbfcfd;
+        --blue: #1769e0;
+        --green: #1f8a70;
+        --rose: #c84d6d;
+        --gold: #ad741b;
+        --violet: #6f58c9;
+        --cyan: #167c96;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family:
+          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
+          "Segoe UI", sans-serif;
+        color: var(--ink);
+        background:
+          linear-gradient(120deg, rgba(23, 105, 224, 0.08), transparent 32rem),
+          linear-gradient(240deg, rgba(31, 138, 112, 0.1), transparent 28rem),
+          var(--paper);
+      }
+
+      main {
+        width: min(1040px, calc(100% - 32px));
+        margin: 0 auto;
+        padding: 56px 0;
+      }
+
+      header {
+        max-width: 720px;
+        margin-bottom: 28px;
+      }
+
+      h1 {
+        margin: 0 0 10px;
+        font-size: clamp(2rem, 5vw, 4rem);
+        line-height: 1;
+        letter-spacing: 0;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 1.05rem;
+        line-height: 1.55;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 14px;
+        margin-top: 30px;
+      }
+
+      .project {
+        display: grid;
+        min-height: 156px;
+        padding: 20px;
+        color: inherit;
+        text-decoration: none;
+        background: rgba(255, 255, 255, 0.82);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        box-shadow: 0 18px 45px rgba(23, 32, 38, 0.08);
+        transition:
+          transform 160ms ease,
+          border-color 160ms ease,
+          box-shadow 160ms ease;
+      }
+
+      .project:hover,
+      .project:focus-visible {
+        transform: translateY(-2px);
+        border-color: color-mix(in srgb, var(--accent), #ffffff 35%);
+        box-shadow: 0 22px 55px rgba(23, 32, 38, 0.12);
+        outline: none;
+      }
+
+      .project::before {
+        content: "";
+        display: block;
+        width: 44px;
+        height: 5px;
+        margin-bottom: 22px;
+        border-radius: 999px;
+        background: var(--accent);
+      }
+
+      .project h2 {
+        margin: 0 0 8px;
+        font-size: 1.25rem;
+        line-height: 1.2;
+        letter-spacing: 0;
+      }
+
+      .project span {
+        color: var(--muted);
+        font-size: 0.94rem;
+        line-height: 1.45;
+        overflow-wrap: anywhere;
+      }
+
+      footer {
+        margin-top: 30px;
+        color: var(--muted);
+        font-size: 0.92rem;
+      }
+
+      @media (max-width: 520px) {
+        main {
+          width: min(100% - 24px, 1040px);
+          padding: 34px 0;
+        }
+
+        .project {
+          min-height: 134px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>Project Pages</h1>
+        <p>A quick directory for public Numerate64 GitHub Pages projects.</p>
+      </header>
+
+      <section class="grid" aria-label="Projects">
+        <a class="project" style="--accent: var(--green)" href="https://numerate64.github.io/kriolu/">
+          <h2>Kriolu</h2>
+          <span>numerate64.github.io/kriolu</span>
+        </a>
+        <a class="project" style="--accent: var(--blue)" href="https://numerate64.github.io/worldcup2026/">
+          <h2>World Cup 2026</h2>
+          <span>numerate64.github.io/worldcup2026</span>
+        </a>
+        <a class="project" style="--accent: var(--rose)" href="https://numerate64.github.io/misfirm.com/">
+          <h2>MIS Firm</h2>
+          <span>numerate64.github.io/misfirm.com</span>
+        </a>
+        <a class="project" style="--accent: var(--gold)" href="https://numerate64.github.io/countdown/">
+          <h2>Countdown</h2>
+          <span>numerate64.github.io/countdown</span>
+        </a>
+        <a class="project" style="--accent: var(--violet)" href="https://numerate64.github.io/readonly/">
+          <h2>Readonly</h2>
+          <span>numerate64.github.io/readonly</span>
+        </a>
+        <a class="project" style="--accent: var(--cyan)" href="https://numerate64.github.io/spinboro/">
+          <h2>Spinboro</h2>
+          <span>numerate64.github.io/spinboro</span>
+        </a>
+        <a class="project" style="--accent: var(--green)" href="https://numerate64.github.io/clubcaliche/">
+          <h2>Club Caliche</h2>
+          <span>numerate64.github.io/clubcaliche</span>
+        </a>
+      </section>
+
+      <footer>Hosted with GitHub Pages.</footer>
+    </main>
+  </body>
+</html>
