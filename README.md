@@ -16,6 +16,7 @@ https://numerate64.github.io/project-pages/
 
 - Kriolu
 - World Cup 2026
+- World Cup 2026 Score Kiosk
 - MIS Firm
 - Countdown
 - Freida McFadden
