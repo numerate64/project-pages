@@ -19,6 +19,7 @@ https://numerate64.github.io/project-pages/
 - World Cup 2026 Score Kiosk
 - Cabo Verde World Cup Team
 - Portugal World Cup Team
+- USA World Cup Team
 - MIS Firm
 - Countdown
 - Freida McFadden
