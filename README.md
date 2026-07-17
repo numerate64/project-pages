@@ -16,6 +16,7 @@ https://numerate64.github.io/project-pages/
 
 - Kriolu
 - Amaze GO!
+- Yarn Harvest
 - World Cup 2026
 - World Cup 2026 Score Kiosk
 - Cabo Verde World Cup Team
