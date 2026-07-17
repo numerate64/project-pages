@@ -19,9 +19,7 @@ https://numerate64.github.io/project-pages/
 - Yarn Harvest
 - World Cup 2026
 - World Cup 2026 Score Kiosk
-- Cabo Verde World Cup Team
-- Portugal World Cup Team
-- USA World Cup Team
+- World Cup 2026 Teams
 - MIS Firm
 - Countdown
 - Freida McFadden
