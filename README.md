@@ -16,7 +16,6 @@ https://numerate64.github.io/project-pages/
 
 - Kriolu
 - Amaze GO!
-- World Cup 2026
 - World Cup 2026 Score Kiosk
 - World Cup 2026 Teams
 - MIS Firm
