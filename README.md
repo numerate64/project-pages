@@ -15,7 +15,6 @@ https://numerate64.github.io/project-pages/
 ## Listed Sites
 
 - Kriolu
-- Amaze GO!
 - MIS Firm
 - Countdown
 - Freida McFadden
