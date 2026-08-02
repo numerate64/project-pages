@@ -15,7 +15,7 @@ https://numerate64.github.io/project-pages/
 ## Listed Sites
 
 - Michael Jackson August Tribute
-- Kriolu
+- Kriolu/English Dictionary
 - MIS Solutions LLC
 - Countdown
 - Freida McFadden
