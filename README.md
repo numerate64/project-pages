@@ -16,7 +16,7 @@ https://numerate64.github.io/project-pages/
 
 - Michael Jackson August Tribute
 - Kriolu
-- MIS Firm
+- MIS Solutions LLC
 - Countdown
 - Freida McFadden
 - TiVo
