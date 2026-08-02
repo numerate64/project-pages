@@ -14,6 +14,7 @@ https://numerate64.github.io/project-pages/
 
 ## Listed Sites
 
+- Michael Jackson August Tribute
 - Kriolu
 - MIS Firm
 - Countdown
