@@ -27,6 +27,7 @@ https://numerate64.github.io/project-pages/
 - Company Website
 - GitHub Pages Tutorial
 - Margin Calculator
+- Omnissa UAG Cert Automation
 
 ## Local Preview
 
