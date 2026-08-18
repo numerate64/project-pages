@@ -28,6 +28,7 @@ https://numerate64.github.io/project-pages/
 - GitHub Pages Tutorial
 - Margin Calculator
 - Omnissa UAG Cert Automation
+- R&B Tour Setlist
 
 ## Local Preview
 
