@@ -24,6 +24,7 @@ https://numerate64.github.io/project-pages/
 - Spinboro
 - Club Caliche
 - Partner Technology Dashboard
+- Quotes-R-Us
 - Company Website
 - GitHub Pages Tutorial
 - Margin Calculator
