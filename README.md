@@ -29,6 +29,7 @@ https://numerate64.github.io/project-pages/
 - GitHub Pages Tutorial
 - Margin Calculator
 - Omnissa UAG Cert Automation
+- S3 Storage By Tier
 
 ## Local Preview
 
