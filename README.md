@@ -14,6 +14,7 @@ https://numerate64.github.io/project-pages/
 
 ## Listed Sites
 
+- Snake
 - FlagFun
 - Michael Jackson August Tribute
 - Kriolu/English Dictionary
