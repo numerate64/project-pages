@@ -22,7 +22,6 @@ https://numerate64.github.io/project-pages/
 - Freida McFadden
 - TiVo
 - Readonly
-- Partner Technology Dashboard
 - Quotes-R-Us
 - Company Website
 - GitHub Pages Tutorial
