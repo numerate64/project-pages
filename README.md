@@ -20,7 +20,6 @@ https://numerate64.github.io/project-pages/
 - Kriolu/English Dictionary
 - MIS Solutions LLC
 - Countdown
-- Freida McFadden
 - TiVo
 - Readonly
 - Quotes-R-Us
