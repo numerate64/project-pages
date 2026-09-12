@@ -16,6 +16,7 @@ https://numerate64.github.io/project-pages/
 
 - Snake
 - FlagFun
+- APS Calendar
 - Michael Jackson August Tribute
 - Kriolu/English Dictionary
 - MIS Solutions LLC
