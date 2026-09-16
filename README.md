@@ -15,8 +15,6 @@ https://numerate64.github.io/project-pages/
 ## Listed Sites
 
 - Snake
-- ASL Wordle
-- Spanish Quiz
 - FlagFun
 - APS Calendar
 - Michael Jackson August Tribute
