@@ -29,7 +29,6 @@ https://numerate64.github.io/project-pages/
 - Margin Calculator
 - Omnissa UAG Cert Automation
 - S3 Storage By Tier
-- Peloton Instructor Yearbook
 
 ## Local Preview
 
