@@ -24,7 +24,6 @@ https://numerate64.github.io/project-pages/
 - TiVo
 - Readonly
 - Quotes-R-Us
-- Company Website
 - GitHub Pages Tutorial
 - Margin Calculator
 - Omnissa UAG Cert Automation
