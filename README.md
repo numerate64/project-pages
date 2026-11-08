@@ -14,6 +14,10 @@ https://numerate64.github.io/project-pages/
 
 ## Listed Sites
 
+- Technical Debt
+- AI Huddle
+- Bring Your Own Prompt (BYOP)
+
 - Snake
 - FlagFun
 - APS Calendar
