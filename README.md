@@ -17,6 +17,7 @@ https://numerate64.github.io/project-pages/
 - Technical Debt
 - AI Huddle
 - Bring Your Own Prompt (BYOP)
+- Laya Lab
 
 - Snake
 - FlagFun
