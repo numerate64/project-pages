@@ -34,6 +34,7 @@ https://numerate64.github.io/project-pages/
 - Margin Calculator
 - Omnissa UAG Cert Automation
 - S3 Storage By Tier
+- VMware Licensing Planner
 
 ## Local Preview
 
